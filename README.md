@@ -3,19 +3,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bruno4code" alt="bruno4code" /></a> </p>
 
-- 🌱 I’m currently learning **indie game development**
+- 🌱 I’m currently learning **indie game development** with LibGdx
 
 - 👯 I’m looking to collaborate on **Java and Python projects**
 
-- 📝 I regularly write articles on [[bruno4code.com.br/wp](https://dev.to/bbwithpointers)](my dev.to/bbwithpointers)
+- 📝 I regularly write articles on my [dev.to](https://dev.to/bbwithpointers) page
 
-- 💬 Ask me about **java and spring framework or python and Django**
+- 💬 Ask me about **Java and Spring Framework or Python**
 
-- 📫 How to reach me **contato4code@gmail.com**
+- 📫 How to reach me **brunog.barros@proton.me**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/brugbarros/](https://www.linkedin.com/in/brugbarros/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
