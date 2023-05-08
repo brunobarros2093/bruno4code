@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bruno4code" alt="bruno4code" /></a> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **indie game development**
 
 - 👯 I’m looking to collaborate on **Java and Python projects**
 
-- 📝 I regularly write articles on [bruno4code.com.br/wp](bruno4code.com.br/wp)
+- 📝 I regularly write articles on [[bruno4code.com.br/wp](https://dev.to/bbwithpointers)](my dev.to/bbwithpointers)
 
 - 💬 Ask me about **java and spring framework or python and Django**
 
