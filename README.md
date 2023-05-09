@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bruno4code" alt="bruno4code" /></a> </p>
 
-- 🌱 I’m currently learning **indie game development** with LibGdx
+- 🌱 I’m currently learning **indie game development** with LibGdx, opengl, lwjgl.
 
-- 👯 I’m looking to collaborate on **Java and Python projects**
+- 👯 I’m looking to collaborate on **Java projects**
 
 - 📝 I regularly write articles on my [dev.to](https://dev.to/bbwithpointers) page
 
-- 💬 Ask me about **Java and Spring Framework or Python**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **brunog.barros@proton.me**
 
